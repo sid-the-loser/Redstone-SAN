@@ -11,15 +11,129 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
+      "has_sandstone": "2026-02-06 15:07:47 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crafter": {
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
-      "has_dropper": "2026-02-06 15:52:26 -0500"
+      "has_sandstone": "2026-02-06 15:07:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-02-06 15:07:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-02-06 15:07:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-02-06 15:07:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2026-02-06 15:07:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-02-06 15:07:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-02-06 15:07:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-02-06 15:07:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-02-06 15:07:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2026-02-06 15:07:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-02-06 15:08:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-02-06 15:08:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-02-06 15:08:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-02-06 15:08:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-02-06 15:08:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-02-06 15:08:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-02-06 15:08:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2026-02-06 15:08:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-02-06 15:08:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-02-06 15:08:28 -0500"
     },
     "done": true
   },
@@ -32,12 +146,6 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2026-02-06 15:13:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2026-02-06 15:07:47 -0500"
     },
     "done": true
   },
@@ -65,45 +173,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2026-02-06 15:07:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2026-02-06 15:55:27 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2026-02-06 15:13:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2026-02-06 15:55:27 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2026-02-06 15:07:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
     },
     "done": true
   },
@@ -113,153 +185,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2026-02-06 15:07:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2026-02-06 16:00:30 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/waxed_copper_bulb_from_honeycomb": {
-    "criteria": {
-      "has_copper_bulb": "2026-02-06 15:53:40 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2026-02-06 15:08:28 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2026-02-06 15:13:18 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2026-02-06 15:07:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2026-02-06 15:08:28 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2026-02-06 15:08:28 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2026-02-06 15:55:27 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2026-02-06 15:55:27 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2026-02-06 15:08:28 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2026-02-06 15:08:28 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2026-02-06 15:57:41 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2026-02-06 15:55:27 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2026-02-06 15:13:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2026-02-06 15:08:28 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2026-02-06 15:07:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
     },
     "done": true
   },
@@ -275,81 +209,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2026-02-06 15:07:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2026-02-06 15:07:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2026-02-06 15:27:08 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2026-02-06 15:07:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2026-02-06 15:07:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2026-02-06 15:55:27 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2026-02-06 15:13:18 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2026-02-06 15:13:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2026-02-06 15:08:28 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2026-02-06 15:55:27 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2026-02-06 15:27:08 -0500"
     },
     "done": true
   },
@@ -365,18 +233,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/pale_oak_boat": {
-    "criteria": {
-      "in_water": "2026-02-06 15:08:28 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2026-02-06 15:07:47 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2026-02-06 15:13:18 -0500"
@@ -389,15 +245,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
-      "in_water": "2026-02-06 15:08:28 -0500"
+      "has_diamond_ore": "2026-02-06 15:27:08 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
-      "in_water": "2026-02-06 15:08:28 -0500"
+      "has_diamond_ore": "2026-02-06 15:27:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2026-02-06 15:52:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_copper_bulb": "2026-02-06 15:53:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2026-02-06 15:53:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-02-06 15:55:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-02-06 15:55:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-02-06 15:55:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2026-02-06 15:55:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-02-06 15:55:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-02-06 15:55:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-02-06 15:55:27 -0500"
     },
     "done": true
   },
@@ -407,9 +401,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_stone": "2026-02-06 15:53:52 -0500"
+      "has_redstone_torch": "2026-02-06 15:57:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-02-06 16:00:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_exposed_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_exposed_copper_bulb": "2026-02-07 23:35:39 -0500"
     },
     "done": true
   },
